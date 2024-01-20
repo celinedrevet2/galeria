@@ -1,5 +1,4 @@
-def usuario():
+def comprueba_fondo():
 	pass
 
-def password():
-	pass
+DOCUMENTOS = ["doc", "docx"]
